@@ -1,0 +1,27 @@
+/***Stylesheet***/
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    letter-spacing: 1vw;
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+}
+
+h2{
+    color: aqua;
+    font-family: Arial;
+    text-align: center;
+}
+
+p{
+    font-family: Arial;
+    color: white;
+}
+
+img{
+    height: 150px;
+}
